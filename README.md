@@ -25,3 +25,11 @@ MED-Net: Leveraging multi-visual encoding and Manhattan-distance pooling for rob
 ## 4. Scheduling
 
 MED-Net:  [code](https://github.com/CCRG-XJU/DMOFJSSP_DRL)  [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035212)
+
+## 🔬 Representative Projects
+
+| 🏥 Medical Segmentation | ⚙️ Scheduling |
+|---|---|
+| **SCMC-Net**  <br> Leveraging multi-visual encoding and Manhattan-distance pooling for robust medical image segmentation. <br> [Code](https://github.com/szz2025/SCMC-Net) \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035212) | **DMOFJSSP-DRL**  <br> Deep reinforcement learning for dynamic flexible job shop scheduling. <br> [Code](https://github.com/CCRG-XJU/DMOFJSSP_DRL) \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035212) |
+
+
