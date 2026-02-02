@@ -1,8 +1,12 @@
+<h1 align="left">
+  Intelligent Perception & Cognitive Decision Laboratory (IPCD Group)
+</h1>
+
 <p align="left">
-  <b>Intelligent Perception & Cognitive Decision Laboratory (IPCD Group)</b><br> Xinjiang University
+  Xinjiang University
 </p >
 
-<p align="center">
+<p align="left">
   📍 Urumqi, China &nbsp;|&nbsp;
   🌐 <a href=" ">Lab Website</a > &nbsp;|&nbsp;
   📧 yerdong@xju.edu.cn
