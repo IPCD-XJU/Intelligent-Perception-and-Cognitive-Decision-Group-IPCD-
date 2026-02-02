@@ -1,5 +1,3 @@
-# Intelligent Perception and Cognitive Decision Group (IPCD)
-Welcome to IPCD-XJU !
 <p align="center">
   <b>Intelligent Perception & Cognitive Decision Laboratory (IPCD Lab)</b><br>
   Xinjiang University
@@ -8,7 +6,7 @@ Welcome to IPCD-XJU !
 <p align="center">
   📍 Urumqi, China &nbsp;|&nbsp;
   🌐 <a href=" ">Lab Website</a > &nbsp;|&nbsp;
-  📧 your-email@xju.edu.cn
+  📧 yerdong@xju.edu.cn
 </p >
 
 # Popular repositories
