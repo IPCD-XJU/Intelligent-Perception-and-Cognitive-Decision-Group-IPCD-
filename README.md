@@ -16,3 +16,6 @@ MED-Net: Leveraging multi-visual encoding and Manhattan-distance pooling for rob
 [code](https://github.com/CCRG-XJU/DMOFJSSP_DRL)  [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035212)
 
 
+## 3. Scheduling
+
+MED-Net:  [code](https://github.com/CCRG-XJU/DMOFJSSP_DRL)  [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035212)
