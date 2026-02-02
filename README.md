@@ -32,4 +32,13 @@ MED-Net:  [code](https://github.com/CCRG-XJU/DMOFJSSP_DRL)  [paper](https://www.
 |---|---|
 | **SCMC-Net**  <br> Leveraging multi-visual encoding and Manhattan-distance pooling for robust medical image segmentation. <br> [Code](https://github.com/szz2025/SCMC-Net) \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035212) | **DMOFJSSP-DRL**  <br> Deep reinforcement learning for dynamic flexible job shop scheduling. <br> [Code](https://github.com/CCRG-XJU/DMOFJSSP_DRL) \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035212) |
 
+## 🔬 Representative Projects
+
+| 🏥 Intelligent Perception  | ⚙️ Cognitive Decision |
+|---|---|
+| **Medical Segmentation**  <br> **SCMC-Net**  <br> Leveraging multi-visual encoding and Manhattan-distance pooling for robust medical image segmentation. <br> [Code](https://github.com/szz2025/SCMC-Net)  | **DMOFJSSP-DRL**  <br> Deep reinforcement learning for dynamic flexible job shop scheduling. <br> [Code](https://github.com/CCRG-XJU/DMOFJSSP_DRL) \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035212) |
+| **Medical Object Detection**  <br> Detection of lesions and anatomical structures in medical images. | |
+| **Medical Image Classification**  <br> Disease classification and diagnosis using deep learning. | |
+
+
 
