@@ -1,6 +1,5 @@
 <p align="left">
-  <b>Intelligent Perception & Cognitive Decision Laboratory (IPCD Group)</b><br>
-  Xinjiang University
+  <b>Intelligent Perception & Cognitive Decision Laboratory (IPCD Group)</b><br> Xinjiang University
 </p >
 
 <p align="center">
