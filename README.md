@@ -1,5 +1,5 @@
 <h1 align="left">
-  Intelligent Perception & Cognitive Decision Laboratory (IPCD Group)
+  Intelligent Perception & Cognitive Decision Group (IPCD)
 </h1>
 
 <p align="left">
