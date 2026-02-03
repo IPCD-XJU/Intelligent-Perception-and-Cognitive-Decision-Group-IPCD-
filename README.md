@@ -18,7 +18,7 @@
 |---|---|
 | **Medical Segmentation**  <br> **SCMC-Net**  <br> Leveraging multi-visual encoding and Manhattan-distance pooling for robust medical image segmentation. <br> [Code](https://github.com/szz2025/SCMC-Net) | **Shop Scheduling** <br> **DMOFJSSP-DRL**  <br> Deep reinforcement learning for dynamic flexible job shop scheduling. <br> [Code](https://github.com/CCRG-XJU/DMOFJSSP_DRL) \| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423035212) |
 <br> **MED-Net**  <br> Leveraging multi-visual encoding and Manhattan-distance pooling for robust medical image segmentation. <br> [Code](https://github.com/szz2025/MED-Net)
-| **Medical Segmentation**  <br> **MED-Net**  <br> Leveraging multi-visual encoding and Manhattan-distance pooling for robust medical image segmentation. <br> [Code](https://github.com/szz2025/MED-Net) | abcd |
+| **Medical Detection**  <br> **MED-Net**  <br> Leveraging multi-visual encoding and Manhattan-distance pooling for robust medical image segmentation. <br> [Code](https://github.com/szz2025/MED-Net) | abcd |
 
 | 🏥 Intelligent Perception | ⚙️ Cognitive Decision | 📡 Communication |
 |---|---|---|
