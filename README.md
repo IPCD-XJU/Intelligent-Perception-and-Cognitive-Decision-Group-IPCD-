@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  Xinjiang University
+  The IPCD group belongs to the MIPS laboratory at Xinjiang University. The group is guided by Teacher Erdong Yuan and its research focuses on medical image processing and intelligent optimization scheduling.
 </p >
 
 <p align="left">
